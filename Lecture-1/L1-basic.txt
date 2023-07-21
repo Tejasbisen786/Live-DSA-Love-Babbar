@@ -1,0 +1,67 @@
+Flow Chart : Diagrametically Approch of a program 
+
+Terminator : start 
+Parraolgram Type : Taking Input And Display Outfa-pull-left
+Rectangle : Process 
+Diamond : Decision Making Statement ( Conditon )
+Arrows : Indicate the floe and connecting the component
+circle: Function 
+
+** Sum Of two Number **
+// FlowChart
+start-> Read a,b-> sum=a+b-> print -> end
+
+//pseudocode : Way of Represeting Logic ( Generic Solution)
+ ex:->
+ read a,b
+ sum=a+b
+ Print sum 
+
+ //Calculate Simple Interst: p*r*n/100
+
+ start---read p,r & t,----- 
+ si =p*r*n/10----- print ---- end
+
+
+ //Avg Of a 3 Number :  a+b+c /3
+
+ start
+ read a,b,c
+ avg=a+b+c/3
+ print avg
+ end
+ //a<b Yes or No
+ start
+ read a,b
+ decison cheak a<b if yes print yes end
+ if No print No End 
+
+
+
+ // odd or even :  Num%2==0 Even | Odd
+ % : Return The Reminder Value
+
+// Check Whether Number is Positive Or Negative or Zero
+
+n>0 : Positive
+n<0 : Negative
+else : Zero
+
+// Triangle Valid Or Not  ( HW)
+
+a+b>c
+B+c >a
+C+a>b
+
+
+// Loops 
+
+start 
+read Num
+Let Number=1
+cheack is number <num if yes  print number num++ end
+end
+
+HW: Cheak Triangle Or Not
+HW: 1 to N
+HW : Find Factorial 
